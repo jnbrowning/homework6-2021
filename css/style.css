@@ -112,7 +112,7 @@ header{
   }
   .nav_links{
     flex-direction: row;
-    align-self: stretch;
+    justify-content: space-around;
   }
 
   .pricing{
